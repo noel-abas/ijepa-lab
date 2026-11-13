@@ -1,0 +1,4 @@
+component,tracked_parameter,parameter_tensors_with_gradients,gradient_l2_all_parameters,tracked_change_after_adamw_l2,tracked_change_after_ema_l2
+Context encoder,patch_embed.proj.weight,148,0.00359026319347322,0.37880760431289673,0.37880760431289673
+Predictor,predictor_proj.weight,31,0.3450949788093567,0.13576291501522064,0.13576291501522064
+Target encoder,patch_embed.proj.weight,0,0.0,0.0,0.0037880640011280775

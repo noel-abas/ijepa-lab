@@ -1,0 +1,9 @@
+component,shape
+patch_tokens,"[1, 16, 192]"
+context_features,"[1, 12, 192]"
+target_features,"[1, 16, 192]"
+references,"[1, 4, 192]"
+predictions,"[1, 4, 192]"
+Target encoder attention,"[1, 3, 16, 16]"
+Context encoder attention,"[1, 3, 12, 12]"
+Predictor attention,"[1, 3, 16, 16]"

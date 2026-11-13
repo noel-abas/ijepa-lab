@@ -1,0 +1,3 @@
+first_residual,second_residual,squared_l2_sum,squared_error_mean,smooth_l1_mean
+0.5,-2.0,4.25,2.125,0.8125
+0.5,-4.0,16.25,8.125,1.8125
